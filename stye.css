@@ -1,0 +1,40 @@
+body{
+color: red;
+background-color: aqua;
+margin: 0px;
+margin-bottom: 100%;
+}
+
+header{
+
+border-bottom: solid 2px red;
+margin: 20px;
+font-size: 32px;
+color: aqua;
+
+}
+
+section{
+padding-bottom: 80px;
+padding-top: 80px;
+background: orangered;
+display: flex;
+justify-content: center;
+}
+
+h1{
+color: red;
+font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.chamada-texto{
+margin-right: 1%;
+text-align: center;
+padding: 20px;
+background-color: aqua;
+color: red;
+}
